@@ -1,7 +1,7 @@
 # Project Name
 
 **Author**: Joseph Price
-**Version**: 1.0.1 (increment the patch/fix version number if you make more commits past your first submission)
+**Version**: 1.0.2 (increment the patch/fix version number if you make more commits past your first submission)
 
 ## Overview
 
@@ -19,7 +19,7 @@ The purpose of this application is to retrieve information about locations queri
 
 ## Change Log
 
-changed button text to "explore"
+switched around the order of lat and lon and used full words
 
 <!-- Use this area to document the iterative changes made to your application as each feature is successfully implemented. Use time stamps. Here's an example:
 
@@ -32,7 +32,7 @@ changed button text to "explore"
 Time Estimates
 For each of the lab features, make an estimate of the time it will take you to complete the feature, and record your start and finish times for that feature:
 
-Name of feature: ******\*\*******\_\_\_\_******\*\*******
+Name of feature: **\*\***\*\***\*\***\_\_\_\_**\*\***\*\***\*\***
 
 Estimate of time needed to complete: **\_**
 

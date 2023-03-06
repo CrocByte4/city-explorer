@@ -21,12 +21,12 @@ function App() {
     <div className="App">
       {location.display_name && (
         <p>
-          {location.display_name} is at lat and lon: {location.lat} /
+          {location.display_name} is at latitude: {location.lat} and longitude:{" "}
           {location.lon}
         </p>
       )}
       <input onChange={handleSearch} placeholder="Search for a city" />
-      <button onClick={getLocation}>Explore</button>
+      <button onClick={getLocation}>Explore!</button>
     </div>
   );
 }
